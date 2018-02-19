@@ -1,1 +1,1 @@
-# HuiffmanCoding
+# HuffmanCoding
